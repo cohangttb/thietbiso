@@ -1,0 +1,8 @@
+{
+  "name": "Phòng thực hành Toán 2 – Cân đĩa và Đồng hồ",
+  "description": "Ứng dụng học liệu tương tác môn Toán lớp 2 giúp học sinh thực hành cân đĩa thăng bằng và xem đồng hồ kim, đồng hồ số trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
